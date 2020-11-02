@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Francesco Gapito
-    tagline: SOFTWARE ARCHITECT CONSULTANT
-    avatar: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Senior Software Architect Consultant
+    avatar: #profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: francesco.gapito@gmail.com
-    phone: 347 424 4797
+    phone:
     website: www.linkedin.com/in/fgapito/
     linkedin: fgapito
     github: 
@@ -76,7 +76,7 @@ education:
         Thesis (research/experimental): “Transactional Mechanisms for Web Services”
 
 experiences:
-    - role: Software Architect Consultant, Agile Coach, Devops Specialist, Trainer, Team motivator
+    - role: Software Architect Consultant, Agile Coach, Devops Specialist, Trainer
       time: 2011 - Present
       company: CRIF spa, Bologna, Italy
       details: |
