@@ -7,114 +7,132 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Francesco Gapito
+    tagline: SOFTWARE ARCHITECT CONSULTANT | CERTIFIED SCRUM MASTER | DEVOPS SPECIALIST
+    avatar: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: francesco.gapito@gmail.com
+    phone: 347 424 4797
+    website: www.linkedin.com/in/fgapito/
+    linkedin: fgapito
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Italian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Enterprise Software Architectures
         link:
 
-      - item: Snowboarding
+      - item: Project Management
+        link:
+        
+      - item: Microservices Architecture
+        link:
+        
+      - item: Spring Framework
+        link:
+        
+      - item: REST services
+        link:
+        
+      - item: Devops
+        link:
+        
+      - item: Agile Project Management with “Scrum“ and “eXtreme Programming”
+        link:
+        
+      - item: Playing Guitar & Bass Guitar
         link:
 
-      - item: Cooking
+      - item: Boargames
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Experienced software solutions with a demonstrated history of working in the information technology and services industry. 
+        Skilled in Microservices Architecture, Elastic stack, Spring Framework (Spring Boot + Spring Cloud) and JEE. 
+        Strong engineering professional focused in Big Data and search engines. Internal technology trainer, Java guru, 
+        and strong experience in software assessments and release management.
+        Furthermore, I deal with improvements on CI/CD, devops and Java coding, to increase productivity and overall quality, and continuous integration processes.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Computer Science university degree (5 years course)
+      university: University of Bologna, Italy
+      time: 1996 - 2002
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Thesis (research/experimental): “Transactional Mechanisms for Web Services”
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Architect Consultant, Agile Coach, Devops Specialist, Trainer, Team motivator
+      time: 2011 - Present
+      company: CRIF spa, Bologna, Italy
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        In CRIF, I deal with designing of complex software architectures, 
+        microservices, agile coaching, internal training, software selections 
+        and external software supplier management.
+        I’m member of the Process Engineering Group and Corporate Product Architecture team.
+        The projects I deal with, are part of the “CRIF Foundation Framework” and “CRIF Credit Bureau Infrastructure”
+        - System and software assessment in order to optimize existing infrastructures and software architectures.
+        - Internal Training about new technologies.
+        - Agile Coaching / Scrum Master Coach
+        - Data Mining
+        - Technical documentation
+        - Strong knowledge of:
+            - Microservice Architecture
+            - API management
+            - Devops methodology
+            - J2EE
+            - Spring Framework, Spring Boot, Spring Cloud
+            - Elastic Stack
+            - RESTful & SOAP web services
+            - Docker
+            - Kubernetes
+            - Redhat Openshift
+
+    - role: Senior Software Architect & Business Integration Team coordinator
+      time: 2006 - 2011
+      company: Bluarancio spa, Bologna, Italy
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        As coordinator of the “Software architectures and Integrations Services” 
+        I designed software architectures, integration modules, 
+        API and business process to orchestrate and monitor complex business services. 
+        Furthermore, I dealt with research and development and internal training about emerging software technologies.
+        - Specialist in software architectures and technology stacks such as SOA, Web Services, REST Services, Business Processes, Integration Services, BPEL
+        - Design and development of ETL processes with IBM Datastage
+        - Design and development of J2EE and .NET applications
+        - Design and development of J2EE Ajax-based web applications with ZK framework Direct RIA, Spring, JPA, EclipseLink / Hibernate / Toplink
+
+        
+    - role: Senior Software Developer
+      time: 2005 - 2006 
+      company: Qubica AMF, Bologna, Italy
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        As senior softare developer I was involved in the development of the payment modules of the Qubica Conqueror platform.
+        - C#
+        - TDD (Test Driven Development)
+        - XP (eXtreme Programming)
+        - Scrum
+        - Pair Programming
+    
+    - role: Software Developer
+      time: 2003 - 2005
+      company: Prometeia spa, Bologna, Italy
+      details: |
+        Design and development of J2EE web applications and services for Financial Planning and Risk Management.
+
 projects:
     title: Projects
     intro: >
@@ -122,25 +140,29 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: CRIF Foundation Framework
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: ORU
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: LOYD
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: CLever
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: Contact
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
+      - title: Master Personal Data Management
+        link: "#"
+        tagline: "..."
 
 publications:
     title: Publications
