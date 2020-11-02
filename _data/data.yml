@@ -57,7 +57,7 @@ sidebar:
       - item: Playing Guitar & Bass Guitar
         link:
 
-      - item: Boargames
+      - item: Boardgames
         link:
 
 career-profile:
@@ -142,7 +142,21 @@ projects:
     assignments:
       - title: CRIF Foundation Framework
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: |
+          I’m the creator and the chief architect of the CRIF Foundation Framework. It is the CRIF business 
+          enabler platform on which all the CRIF solutions are built on. It is completely microservices-based 
+          and it is built on top of Spring Boot and Spring Cloud framework. It allows to CRIF deliveries 
+          to compose the customer solution choosing from a set of pre-built out-of-the-box modules or to create 
+          a complete custom project using the CFF core framework libraries.
+          It is possible to install it on container based orchestrator like Kubernetes, Openshift or Docker Swarm), 
+          or on canonical JEE application server like Weblogic, Websphere, Jboss, Tomcat, etc.
+          Furthermore it is compliant with asynchronous event driven architecture allowing you to choose between 
+          RabbitMQ or Kafka as a message broker.
+          I’m responsible of all the technical aspect, training and couching, counseling, defining devops 
+          pipelines and methodologies, create accellerators to speed up the tasks development and to facilitate 
+          the developer day-by-day work.
+          Furthermore, I am usually involved in pre-sales activities to analyse the technical requirements 
+          together with the client’s architects.
 
       - title: ORU
         link: "#"
