@@ -158,25 +158,51 @@ projects:
           Furthermore, I am usually involved in pre-sales activities to analyse the technical requirements 
           together with the client’s architects.
 
+      - title: CreditFlow
+        link: "#"
+        tagline: |
+          Credit Flow, the conductor of the CRIF Credit Framework, maintains agile, manageable and ability 
+          for end to end workplace based in paperless environment for credit products such as credit customer 
+          acquisition systems or credit processes in its segment. Preset configurations can be selected or 
+          customized solutions can be used for cost effective applications.
+          
       - title: ORU
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "CRIF main multi-product authentication and authorization module for “federated login” management."
 
       - title: LOYD
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: |
+          I’m the creator and the ideator of Loyd. It is a technologic platform that allows to all the CRIF product 
+          to automatically equipped with:
+          
+          - Logs and metrics monitoring
+          - Business analytics and reporting
+          - Alerting
+          
+          Loyd is built on top of Elasticsearch, Kibana, Logstash, Elastic Beat, Spring Boot and Spring Cloud.
 
       - title: CLever
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: |
+          CLever is CRIF`s 360° receivable management system which automatizes and controls the required step 
+          for proactive and clever management. It can make analysis, provide segmentation and make strategy 
+          developments on one integrated platform and individual action taking and result monitoring can be maintained.
 
       - title: Contact
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: |
+          - Credit Collection Processes platform
+          - Multi channel contact center
+          - Campaign management
+          - CRIF products integration
       
       - title: Master Personal Data Management
         link: "#"
-        tagline: "..."
+        tagline: |
+          Designing of a Master Personal Data Management using IBM WebSphere Process Server as ESB, Oracle DB, 
+          using SOA and J2EE technologies. We delivered a solution to easy integrate custom solutions with 
+          Microsoft Dynamic Navision, Microsoft Dynamic CRM and "INAZ Paghe".
 
 publications:
     title: Publications
